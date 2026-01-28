@@ -1,1 +1,1 @@
-print("music")
+print("music rocks")
